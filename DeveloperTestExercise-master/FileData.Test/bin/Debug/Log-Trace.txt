@@ -1,0 +1,10 @@
+2019-02-20 12:11:50.8117|TRACE|FileData.Repositories.FileChecker|Checking Version for c:/test.txt
+2019-02-20 12:21:18.3352|TRACE|FileData.Repositories.FileChecker|Checking Version for c:/test.txt
+2019-02-20 12:21:44.1139|TRACE|FileData.Repositories.FileChecker|Checking Version for c:/test.txt
+2019-02-20 12:23:21.2162|TRACE|FileData.Repositories.FileChecker|Checking Version for c:/test.txt
+2019-02-20 12:23:21.2940|TRACE|FileData.Repositories.FileChecker|Checking Size for c:/test.txt
+2019-02-20 12:23:41.4472|TRACE|FileData.Repositories.FileChecker|Checking Size for c:/test.txt
+2019-02-20 12:25:13.7863|TRACE|FileData.Repositories.FileChecker|Checking Size for c:/test.txt
+2019-02-20 12:25:13.8471|TRACE|FileData.Repositories.FileChecker|Checking Version for c:/test.txt
+2019-02-20 12:27:15.6293|TRACE|FileData.Repositories.FileChecker|Checking Size for c:/test.txt
+2019-02-20 12:27:15.6768|TRACE|FileData.Repositories.FileChecker|Checking Version for c:/test.txt

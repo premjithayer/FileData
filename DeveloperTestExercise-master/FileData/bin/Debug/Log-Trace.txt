@@ -1,0 +1,2 @@
+2019-02-20 09:40:44.8923|TRACE|FileData.Repositories.FileChecker|Checking Version for c:/test.txt
+2019-02-20 09:47:49.6853|TRACE|FileData.Repositories.FileChecker|Checking Size for c:/test.txt

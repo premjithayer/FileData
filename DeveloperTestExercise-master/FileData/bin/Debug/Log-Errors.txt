@@ -1,0 +1,7 @@
+2019-02-20 09:39:42.5778|ERROR|FileData.Program|System.ArgumentException: Provided arguments are not valid: -v
+   at FileData.Repositories.FileChecker.Run(String[] args) in C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\FileChecker.cs:line 37
+   at FileData.Program.Main(String[] args) in C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\Program.cs:line 14
+2019-02-20 09:42:05.5389|ERROR|FileData.Program|Invalid data type of System.String
+2019-02-20 09:43:37.0158|ERROR|FileData.Program|System.ArgumentException: Provided arguments are not valid: -s
+   at FileData.Repositories.FileChecker.Run(String[] args) in C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\FileChecker.cs:line 37
+   at FileData.Program.Main(String[] args) in C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\Program.cs:line 14

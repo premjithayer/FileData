@@ -1,0 +1,9 @@
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\bin\Debug\FileData.Interfaces.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\bin\Debug\FileData.Interfaces.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\bin\Debug\NLog.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\bin\Debug\NLog.xml
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\obj\Debug\FileData.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\obj\Debug\FileData.Interfaces.csproj.CopyComplete
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\obj\Debug\FileData.Interfaces.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\obj\Debug\FileData.Interfaces.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Interfaces\obj\Debug\FileData.Interfaces.csprojAssemblyReference.cache

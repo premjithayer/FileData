@@ -1,0 +1,9 @@
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\Castle.Core.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\Castle.Core.xml
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CopyComplete
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojAssemblyReference.cache

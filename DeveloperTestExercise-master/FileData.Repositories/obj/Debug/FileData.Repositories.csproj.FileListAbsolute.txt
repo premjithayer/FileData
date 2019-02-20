@@ -1,0 +1,13 @@
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\FileData.Repositories.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\FileData.Repositories.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\FileData.Interfaces.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\NLog.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\ThirdPartyTools.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\FileData.Interfaces.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\ThirdPartyTools.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\bin\Debug\NLog.xml
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\obj\Debug\FileData.Repositories.csprojAssemblyReference.cache
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\obj\Debug\FileData.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\obj\Debug\FileData.Repositories.csproj.CopyComplete
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\obj\Debug\FileData.Repositories.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData.Repositories\obj\Debug\FileData.Repositories.pdb

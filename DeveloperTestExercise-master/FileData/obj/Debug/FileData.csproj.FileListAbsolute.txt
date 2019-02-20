@@ -1,0 +1,17 @@
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojAssemblyReference.cache
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csproj.CopyComplete
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\NLog.config
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\NLog.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\NLog.xml
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.Repositories.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.Interfaces.dll
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.Repositories.pdb
+C:\Users\prsingh\Downloads\DeveloperTestExercise-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.Interfaces.pdb
